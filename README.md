@@ -64,4 +64,6 @@ send one to a0 and one to a1
 4. try it out!
 
 
+## scout script
 
+the main.ino sketch adds "spectrum.ndvi" and "spectrum.ndvicolor" functions to your shell!
