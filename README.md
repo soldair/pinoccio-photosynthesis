@@ -10,4 +10,4 @@ this uses 2 photo sensors covered by specific color filters used in photgraphy t
 
 https://www.sparkfun.com/products/9088
 
-
+![pinoccio](http://ryanday.org/animation3.gif)
