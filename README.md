@@ -18,11 +18,11 @@ photo sensors.
 
 
 blue filter
-![photo sensor](./blue_filter.jpg)]
+![photo sensor](./blue_filter.jpg)
 green filter
-![photo sensor](./green_filter.jpg)]
+![photo sensor](./green_filter.jpg)
 
 red filter.
 
-![photo sensor](./red_filter.jpg)]
+![photo sensor](./red_filter.jpg)
 
