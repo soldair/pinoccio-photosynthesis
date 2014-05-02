@@ -36,5 +36,5 @@ this is the second filter for the left "eye". this removes most of the leftover 
 ####red filter.
 ![photo sensor](./red_filter.jpg)
 
-this is the only filter on the right "eye". id ass all of the red channel and includes near ir.
+this is the only filter on the right "eye". it hass all of the red channel and includes near ir.
 
