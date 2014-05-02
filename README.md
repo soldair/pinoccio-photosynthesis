@@ -14,15 +14,15 @@ this uses 2 photo sensors covered by specific color filters used in photgraphy t
 ====
 
 photo sensors.
-[![photo sensor](./photo_sensor.png)] https://www.sparkfun.com/products/9088
+[![photo sensor](./photo_sensor.jpg) https://www.sparkfun.com/products/9088]
 
 
 blue filter
-![photo sensor](./blue_filter.png)]
+![photo sensor](./blue_filter.jpg)]
 green filter
-![photo sensor](./green_filter.png)]
+![photo sensor](./green_filter.jpg)]
 
 red filter.
 
-![photo sensor](./red_filter.png)]
+![photo sensor](./red_filter.jpg)]
 
