@@ -37,7 +37,7 @@ this is one of the components of the left "eye" adding this blue removes red but
 ####green filter
 ![photo sensor](./green_filter.jpg)
 
-this is the second filter for the left "eye". this removes most of the leftover blue leaving some slight light blue as noise and leaved me a good chunk of the near infrared. i should be able to find a better match.
+this is the second filter for the left "eye". this removes most of the leftover blue leaving some slight light blue as noise and left me a good chunk of the near infrared. i should be able to find a better match.
 
 ####red filter.
 ![photo sensor](./red_filter.jpg)
