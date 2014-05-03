@@ -53,7 +53,6 @@ this is the only filter on the right "eye". it hass all of the red channel and i
 
 
 1. build 2 of these on the protoboard
-
 ![voltage divder](./voltage_divider_schematic.png)
 send one to a0 and one to a1
 
